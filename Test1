@@ -9,4 +9,4 @@ def fact(n)
 	      end
 	      end
 
-	      puts fact(ARGV[0].toangedi)
+	      puts fact(ARGV[0].toangefadogsisdi)
